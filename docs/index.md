@@ -11,7 +11,7 @@ hero:
       text: Markdown Examples
       link: /markdown-examples
     - theme: alt
-      text: teams
+      text: Teams
       link: /teams
 
 features:

@@ -14,10 +14,9 @@ const members = [
     name: 'Shaoshuai Zhang',
     title: 'Professor',
     links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' }
+      { icon: 'github', link: 'https://github.com/Orgline' }
     ]
   },
-  ...
 ]
 </script>
 

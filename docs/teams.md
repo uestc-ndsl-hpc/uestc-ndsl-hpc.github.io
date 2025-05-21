@@ -26,8 +26,7 @@ const members = [
       Our Team
     </template>
     <template #lead>
-      The development of VitePress is guided by an international
-      team, some of whom have chosen to be featured below.
+      We are a team to explore the limit of the computation.
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers

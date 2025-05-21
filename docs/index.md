@@ -5,11 +5,11 @@ layout: home
 hero:
   name: "UESTC NDSL HPC"
   text: "A groud led by Dr.Zhang is focus on HPC and numerical linear algebra."
-  tagline: My great project tagline
+  tagline: University of Electronic Science and Technology of China
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: publication
+      link: /pub
     - theme: alt
       text: Teams
       link: /teams

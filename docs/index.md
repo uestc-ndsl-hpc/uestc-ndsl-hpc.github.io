@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: HPC
+    details: high performance computing
+  - title: GPGPU
+    details: general purpose graphics processor unit
+  - title: numerical linear algebra
+    details: algebra which is about matrix computation
 ---
 

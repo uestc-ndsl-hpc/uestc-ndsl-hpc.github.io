@@ -14,3 +14,7 @@ Y Leng, G Zou, H Wang, P Wu, S Zhang
 
 TPDS (CCF-A) https://ieeexplore.ieee.org/abstract/document/10816084 [:page_facing_up:pdf](https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/Leng%20%E7%AD%89%20-%202025%20-%20High%20Performance%20Householder%20QR%20Factorization%20on%20Emerging%20GPU%20Architectures%20Using%20Tensor%20Cores.pdf)
 :::
+
+:::info TODO:施工中下面其他论文
+TODO
+:::

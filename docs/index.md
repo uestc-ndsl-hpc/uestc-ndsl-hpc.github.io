@@ -13,6 +13,8 @@ hero:
     - theme: alt
       text: Teams
       link: /teams
+  image:
+    src: https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/uestc-ndsl-hpc.png
 
 features:
   - title: HPC

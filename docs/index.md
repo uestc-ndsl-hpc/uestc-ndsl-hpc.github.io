@@ -14,7 +14,7 @@ hero:
       text: Teams
       link: /teams
   image:
-    src: https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/uestc-ndsl-hpc.png
+    src: https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/NDSL-HPC.png
 
 features:
   - title: HPC

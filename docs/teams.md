@@ -34,14 +34,7 @@ const phdstudent = [
     links: [
       
     ]
- },
- {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/hdj(1).jpg',
-    name: 'Dajun Huang',
-    links: [
-      { icon: 'github', link: 'https://github.com/dajunhuang' }
-    ]
-  }
+ }
 ]
 
 const master = [
@@ -50,6 +43,13 @@ const master = [
     name: 'Gaoyuan Zou',
     links: [
       { icon: 'github', link: 'https://github.com/LCStayingdullCircuit' }
+    ]
+  },
+  {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/hdj(1).jpg',
+    name: 'Dajun Huang',
+    links: [
+      { icon: 'github', link: 'https://github.com/dajunhuang' }
     ]
   }
 ]

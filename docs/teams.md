@@ -13,16 +13,50 @@ const members = [
   {
     avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/shaoshuaizhang.jpg',
     name: 'Shaoshuai Zhang',
-    title: 'Professor',
+    title: 'Assistant Professor',
     links: [
       { icon: 'github', link: 'https://github.com/Orgline' }
     ]
   },
 ]
 
+const phdstudent = [
+ {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
+    name: 'Hansheng Wang',
+    links: [
+      
+    ]
+ },
+ {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
+    name: 'Shi Lu',
+    links: [
+      
+    ]
+ },
+ {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/hdj(1).jpg',
+    name: 'Dajun Huang',
+    links: [
+      { icon: 'github', link: 'https://github.com/dajunhuang' }
+    ]
+  }
+]
+
+const master = [
+ {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
+    name: 'Gaoyuan Zou',
+    links: [
+      { icon: 'github', link: 'https://github.com/LCStayingdullCircuit' }
+    ]
+  }
+]
+
 const graduate = [
   {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/shaoshuaizhang.jpg',
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
     name: 'Yuhan Leng',
     title: 'Software Engineer',
     org: 'Moore Threads(摩尔线程)',
@@ -54,7 +88,21 @@ const graduate = [
     </template>
 </VPTeamPageSection> -->
 <VPTeamPageSection>
-    <template #title>student placement</template>
+    <template #title>PhD Student</template>
+    <template #lead>They benefited greatly from their time here, and went on to have a bright future.</template>
+    <template #members>
+      <VPTeamMembers :members="phdstudent" />
+    </template>
+</VPTeamPageSection>
+<VPTeamPageSection>
+    <template #title>Master Student</template>
+    <template #lead>They benefited greatly from their time here, and went on to have a bright future.</template>
+    <template #members>
+      <VPTeamMembers :members="master" />
+    </template>
+</VPTeamPageSection>
+<VPTeamPageSection>
+    <template #title>Alumni</template>
     <template #lead>They benefited greatly from their time here, and went on to have a bright future.</template>
     <template #members>
       <VPTeamMembers :members="graduate" />

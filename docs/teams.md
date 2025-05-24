@@ -30,7 +30,7 @@ const phdstudent = [
  },
  {
     avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
-    name: 'Shi Lu',
+    name: 'Lu Shi',
     links: [
       
     ]
@@ -55,6 +55,15 @@ const master = [
 ]
 
 const graduate = [
+  {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
+    name: 'Yuhan Leng',
+    title: 'Software Engineer',
+    org: 'Moore Threads(摩尔线程)',
+    links: [
+      { icon: 'github', link: 'https://github.com/EmeraldLeng' }
+    ]
+  },
   {
     avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
     name: 'Yuhan Leng',

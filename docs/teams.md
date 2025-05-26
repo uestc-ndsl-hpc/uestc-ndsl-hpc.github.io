@@ -66,6 +66,13 @@ const master = [
       { icon: 'github', link: 'https://github.com/veitsun' }
     ]
   },
+  {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/ywc.jpg',
+    name: 'Wencong Yang',
+    links: [
+      { icon: 'github', link: 'https://github.com/cben484' }
+    ]
+  },
 ]
 
 const graduate = [

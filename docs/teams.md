@@ -46,7 +46,7 @@ const master = [
     ]
   },
   {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/hdj(1).jpg',
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
     name: 'Dajun Huang',
     links: [
       { icon: 'github', link: 'https://github.com/dajunhuang' }

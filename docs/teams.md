@@ -22,7 +22,7 @@ const members = [
 
 const phdstudent = [
  {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/wanghansheng(1).jpg',
     name: 'Hansheng Wang',
     links: [
       
@@ -51,7 +51,21 @@ const master = [
     links: [
       { icon: 'github', link: 'https://github.com/dajunhuang' }
     ]
-  }
+  },
+  {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/llavator.jpg',
+    name: 'Lin Long',
+    links: [
+      
+    ]
+  },
+  {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/llavator.jpg',
+    name: 'Wei Sun',
+    links: [
+      { icon: 'github', link: 'https://github.com/veitsun' }
+    ]
+  },
 ]
 
 const graduate = [

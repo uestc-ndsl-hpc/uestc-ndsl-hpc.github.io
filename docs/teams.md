@@ -60,7 +60,7 @@ const master = [
     ]
   },
   {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/llavator.jpg',
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/sunweiavator.jpg',
     name: 'Wei Sun',
     links: [
       { icon: 'github', link: 'https://github.com/veitsun' }
@@ -79,12 +79,12 @@ const graduate = [
     ]
   },
   {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
-    name: 'Yuhan Leng',
-    title: 'Software Engineer',
-    org: 'Moore Threads(摩尔线程)',
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/wusiqi_white.jpg',
+    name: 'Siqi Wu',
+    title: 'AI Engineer',
+    org: 'Shopee(虾皮)',
     links: [
-      { icon: 'github', link: 'https://github.com/EmeraldLeng' }
+      { icon: 'github', link: 'https://github.com/Dionysusfhs' }
     ]
   },
 ]

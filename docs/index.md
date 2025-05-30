@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "UESTC NDSL HPC"
-  text: "A groud led by Dr.Zhang is focus on HPC and numerical linear algebra."
+  text: "A group led by Dr. Zhang focusing on High Performance Computing and Numerical Linear Algebra."
   tagline: University of Electronic Science and Technology of China
   actions:
     - theme: brand

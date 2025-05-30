@@ -18,11 +18,11 @@ hero:
 
 features:
   - title: HPC
-    details: high performance computing
+    details: High Performance Computing
   - title: GPGPU
-    details: general purpose graphics processor unit
-  - title: numerical linear algebra
-    details: algebra which is about matrix computation
+    details: General Purpose Graphics Processor Unit
+  - title: Numerical Linear Algebra
+    details: Matrix Computations
 ---
 
 
@@ -33,7 +33,7 @@ features:
 :::info Improving Tridiagonalization Performance on GPU Architectures
 H Wang, Z Duan, Z Zhao, S Wu, S Zheng, Q Li, X Jiang, S Zhang
 
-PPoPP '25 (CCF-A) https://dl.acm.org/doi/abs/10.1145/3710848.3710894  [:page_facing_up:pdf](https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/Wang%20%E7%AD%89%20-%202025%20-%20Improving%20Tridiagonalization%20Performance%20on%20GPU%20Architectures.pdf)
+PPoPP'25 (CCF-A) https://dl.acm.org/doi/abs/10.1145/3710848.3710894  [:page_facing_up:pdf](https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/Wang%20%E7%AD%89%20-%202025%20-%20Improving%20Tridiagonalization%20Performance%20on%20GPU%20Architectures.pdf)
 :::
 
 :::info High Performance Householder QR Factorization On Emerging GPU architectures Using Tensor Cores

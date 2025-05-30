@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import timeline from "vitepress-markdown-timeline";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "UESTC NDSL HPC",
@@ -10,7 +10,8 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Team', link: '/teams' },
-      { text: 'Pub', link: '/pub'}
+      { text: 'Pub', link: '/pub'},
+      { text: 'Gallery', link: '/gallery'},
     ],
 
     sidebar: [
@@ -26,5 +27,10 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/uestc-ndsl-hpc' }
     ]
-  }
+  },
+  markdown: {
+    config: (md) => {
+      md.use(timeline);
+    },
+  },
 })

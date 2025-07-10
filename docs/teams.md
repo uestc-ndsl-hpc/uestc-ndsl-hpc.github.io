@@ -78,6 +78,13 @@ const master = [
       { icon: 'github', link: 'https://github.com/cben484' }
     ]
   },
+  {
+    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1752173957719-zhanruiyi.jpg',
+    name: 'Ruiyi Zhan',
+    links: [
+      { icon: 'github', link: 'https://github.com/ruinique' }
+    ]
+  },
 ]
 
 const graduate = [

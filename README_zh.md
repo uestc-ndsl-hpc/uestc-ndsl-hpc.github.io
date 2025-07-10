@@ -56,3 +56,12 @@ npm run docs:preview
 
 - 主页：[https://github.com/uestc-ndsl-hpc](https://github.com/uestc-ndsl-hpc)
 - 邮箱：szhang94@uestc.edu.cn 
+
+## 主页更新日志
+
+- 美化了团队页面和画廊页面
+- 为画廊页面添加了若干组件
+
+## 主页待办事项
+
+1. 提供图片托管解决方案，方便团队成员将自己添加到团队页面

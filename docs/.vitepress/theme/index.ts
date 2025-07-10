@@ -1,6 +1,7 @@
 // .vitepress/theme/index.ts
 import type { Theme } from 'vitepress' // 导入 Theme 类型
 import DefaultTheme from 'vitepress/theme'
+import './custom.css'
 
 // 引入时间线样式 (保留)
 import "vitepress-markdown-timeline/dist/theme/index.css";

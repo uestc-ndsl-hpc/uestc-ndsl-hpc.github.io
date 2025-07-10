@@ -20,6 +20,6 @@ layout: page
     { src: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/hpc-20250604-04.jpg', alt: '2025-06-04 四号科研楼合影 4' },
   ]"
   autoplay
-  :interval="5000"
+  :interval="20000"
 />
 :::

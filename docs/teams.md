@@ -79,7 +79,7 @@ const master = [
     ]
   },
   {
-    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1752175024194-zhanruiyi.jpg',
+    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1752175469529-zhanruiyi.jpg',
     name: 'Ruiyi Zhan',
     links: [
       { icon: 'github', link: 'https://github.com/ruinique' }

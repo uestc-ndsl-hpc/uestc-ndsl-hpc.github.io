@@ -58,3 +58,8 @@ npm run docs:preview
 
 - GitHub: [https://github.com/uestc-ndsl-hpc](https://github.com/uestc-ndsl-hpc)
 - Email: szhang94@uestc.edu.cn
+
+## Homepage Todo
+
+1. Beautify the gallery and team pages
+2. Provide an image hosting solution so team members can easily add themselves to the team page

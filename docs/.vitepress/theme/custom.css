@@ -1,0 +1,17 @@
+/* .vitepress/theme/custom.css */
+
+/* 直接覆盖默认主题中 medium 尺寸下的头像大小 
+  默认是 96px
+*/
+.VPTeamMembersItem.medium .avatar {
+    width: 200px !important;
+    height: 200px !important; /* 设置为您想要的高度 */
+  }
+  
+  /* (可选) 如果您也使用了 small 尺寸，也可以在这里一并覆盖
+    默认是 64px
+  */
+  .VPTeamMembersItem.small .avatar {
+    width: 80px;
+    height: 80px;
+  }

@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "ESNext",
+      "moduleResolution": "bundler",
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitAny": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "lib": ["ESNext", "DOM"],
+      /* 这是关键的一行 */
+      "types": ["vite/client"]
+    },
+    "include": ["./**/*.ts", "./**/*.vue"],
+    "exclude": ["node_modules"]
+  }

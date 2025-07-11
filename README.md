@@ -63,7 +63,4 @@ npm run docs:preview
 
 - beautify the page of the team and the gallery
 - add some components for the gallery page
-
-## Homepage Todo
-
-1. Provide an image hosting solution so team members can easily add themselves to the team page
+- Provide an image hosting solution so team members can easily add themselves to the team page

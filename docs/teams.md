@@ -39,7 +39,17 @@ const phdstudent = [
     links: [
       
     ]
- }
+ },
+  {
+    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1752215313514-1752215178944.jpg',
+    name: 'Dajun Huang',
+    links: [
+      { icon: 'github', link: 'https://github.com/dajunhuang' },
+      { icon: 'blogger', link: 'https://blog.djhuang.cn/' },
+      { icon: 'bilibili', link: 'https://space.bilibili.com/447266390' },
+      { icon: 'osu', link: 'https://osu.ppy.sh/users/16443150' }
+    ]
+  }
 ]
 
 const master = [
@@ -48,13 +58,6 @@ const master = [
     name: 'Gaoyuan Zou',
     links: [
       { icon: 'github', link: 'https://github.com/LCStayingdullCircuit' }
-    ]
-  },
-  {
-    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
-    name: 'Dajun Huang',
-    links: [
-      { icon: 'github', link: 'https://github.com/dajunhuang' }
     ]
   },
   {

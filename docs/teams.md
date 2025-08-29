@@ -88,6 +88,13 @@ const master = [
       { icon: 'github', link: 'https://github.com/ruinique' }
     ]
   },
+  {
+    avatar: 'https://ruinique-alibaba-oss.oss-cn-chengdu.aliyuncs.com/default.jpg',
+    name: 'Peiyu Hu',
+    links: [
+      { icon: 'githubpages', link: 'https://daydreamerh.github.io/' }
+    ]
+  },
 ]
 
 const graduate = [

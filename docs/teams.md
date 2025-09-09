@@ -49,6 +49,13 @@ const phdstudent = [
       { icon: 'bilibili', link: 'https://space.bilibili.com/447266390' },
       { icon: 'osu', link: 'https://osu.ppy.sh/users/16443150' }
     ]
+  },
+  {
+    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1757269589270-wzy.JPG',
+    name: 'Zheyuan Wan',
+    links: [
+
+    ]
   }
 ]
 

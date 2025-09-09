@@ -51,7 +51,7 @@ const phdstudent = [
     ]
   },
   {
-    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1757269589270-wzy.JPG',
+    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1757395646640-wzy2.jpg',
     name: 'Zheyuan Wan',
     links: [
 

@@ -102,6 +102,13 @@ const master = [
       { icon: 'github', link: 'https://github.com/DaydreamerH' }
     ]
   },
+    {
+    avatar: 'https://uestc-ndsl-hpc.oss-cn-chengdu.aliyuncs.com/shared-uploads/1757240427631-zhengshenglin.jpg',
+    name: 'ShengLin Zheng',
+    links: [
+      { icon: 'github', link: 'https://github.com/SunnyZ24' }
+    ]
+  },
 ]
 
 const graduate = [
